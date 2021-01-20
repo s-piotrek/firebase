@@ -1,3 +1,3 @@
 node {
-    echo 'Up'
+    echo 'Up push'
 }
